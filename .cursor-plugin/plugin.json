@@ -1,13 +1,13 @@
 {
-  "name": "layro",
-  "displayName": "Layro",
-  "version": "1.0.1",
-  "description": "Connect Cursor to Layro's 112 production React, TypeScript and Tailwind CSS components. Your agent searches the library, reads props and installs the tested component with the right packages, instead of writing its own. 62 components are free with a free Layro account.",
+  "name": "liro",
+  "displayName": "Liro",
+  "version": "1.1.0",
+  "description": "Connect Cursor to Liro's 258 production React, TypeScript and Tailwind CSS components. Your agent searches the library, reads props and installs the tested component with the right packages, instead of writing its own. 89 components are free with a free Liro account.",
   "author": {
-    "name": "Layro",
-    "url": "https://layropro.com"
+    "name": "Liro",
+    "url": "https://liro.dev"
   },
-  "homepage": "https://layropro.com/mcp",
+  "homepage": "https://liro.dev/mcp",
   "keywords": [
     "mcp",
     "ui",

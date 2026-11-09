@@ -1,7 +1,7 @@
 {
   "mcpServers": {
-    "layro": {
-      "url": "https://layropro.com/api/mcp"
+    "liro": {
+      "url": "https://liro.dev/api/mcp"
     }
   }
 }
